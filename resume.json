@@ -1,0 +1,15 @@
+{
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "about": "I am a passionate developer with experience in full-stack web development.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+    "experience": [
+        {"position": "Frontend Developer", "company": "TechCorp", "years": "2021 - Present"},
+        {"position": "Web Developer Intern", "company": "StartUp Inc.", "years": "2020 - 2021"}
+    ],
+    "projects": [
+        {"name": "Portfolio Website", "description": "A personal portfolio website showcasing my skills and projects."},
+        {"name": "E-commerce App", "description": "A full-stack web application for online shopping."}
+    ],
+    "contact": {"email": "john.doe@example.com", "linkedin": "https://linkedin.com/in/johndoe"}
+}
